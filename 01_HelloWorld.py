@@ -20,7 +20,7 @@ root.geometry('400x280')
 
 
 # Titulo de la ventana
-root.title('Venatan - Hello World!')
+root.title('Ventana - Hello World!')
 
 # Configurar ventana
 root.config(bg="#22272e")
